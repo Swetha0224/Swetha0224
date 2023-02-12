@@ -4,13 +4,13 @@
 
 
 
-- 🤔 &nbsp; Exploring new technologies and developing applications.
+-  🧐&nbsp; Exploring new technologies and developing applications.
 
 - 🎓 &nbsp; Studying Computer Science and Engineering at Vignan's Institute of Information Technology.
 
-- 🌱 &nbsp; Learning about Full Stack Development.
+- 👩‍💻 &nbsp; Learning about Full Stack Development.
 
-- ✍️ &nbsp;  Pursuing Web Development as hobbies.
+- ⭐ &nbsp;  Pursuing Web Development and developing applications as hobbie.
 
 
 ![HTML5](https://img.shields.io/badge/html%205-grey?style=for-the-badge&logo=html5&logoColor=white&labelColor=8E2DE2)
