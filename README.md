@@ -1,4 +1,4 @@
-### Hi there 👋<h2> I'm Takasi Swetha Surya</h2>
+### Hii there... 👋<h1> I'm Takasi Swetha Surya</h1>
 <img align='right' src="https://i.pinimg.com/originals/a6/70/91/a67091c003173f3cd58801f345392dde.gif" width="250px">
 <h3> About Me </h3>
 
